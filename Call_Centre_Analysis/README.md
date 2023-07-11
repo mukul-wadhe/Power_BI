@@ -24,26 +24,26 @@ Let us first go through the data and try analysing/understanding it to visualize
 Below are the information/KPIs/demands to be performed in order to meet client’s requirement:
 
 
-	Calculate total number of calls
+1	Calculate total number of calls
 
-	Create a new column to calculate total number of calls answered and total number of calls been rejected
+2	Create a new column to calculate total number of calls answered and total number of calls been rejected
 
-	Calculate total % of calls been answered and total % of calls been rejected
+3	Calculate total % of calls been answered and total % of calls been rejected
 
 
-	Create a new column to calculate how many calls been resolved 
+4	Create a new column to calculate how many calls been resolved 
 
-	Create a new column to calculate how many calls been not-resolved 
+5	Create a new column to calculate how many calls been not-resolved 
 
-	Find top 1 agent who answered maximum calls
+6	Find top 1 agent who answered maximum calls
 
-	Top 1 agent who got highest satisfaction rate
+7	Top 1 agent who got highest satisfaction rate
 
-	Use a chart to display total number of calls by topic wise
+8	Use a chart to display total number of calls by topic wise
 
-	Duration on calls by every agent
+9	Duration on calls by every agent
 
-	Total calls by days and months for the year 2021
+10	Total calls by days and months for the year 2021
 
 	Use Slicers to interactive with other charts by month and day wise.
 
