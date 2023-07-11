@@ -45,11 +45,11 @@ Below are the information/KPIs/demands to be performed in order to meet client�
 
 10	Total calls by days and months for the year 2021
 
-	Use Slicers to interactive with other charts by month and day wise.
+11	Use Slicers to interactive with other charts by month and day wise.
 
-	Finally, give the overall 2021 performance ratings 
+12	Finally, give the overall 2021 performance ratings 
 
-	Use any suitable custom chart to show(give) overall 2021 performance satisfaction rating. 
+13	Use any suitable custom chart to show(give) overall 2021 performance satisfaction rating. 
 
 
  
